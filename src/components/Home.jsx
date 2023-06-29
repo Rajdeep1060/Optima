@@ -12,7 +12,7 @@ const Home = () => {
     <>
       <div className="home" id="home">
         <main>
-          <h1>TechyStar</h1>
+          <h1>Optima</h1>
           <p>Solution to all your problems</p>
         </main>
       </div>
@@ -23,8 +23,7 @@ const Home = () => {
         <div>
           <p>
             We are your one and only solution to the tech problems you face
-            every day. We are leading tech company whose aim is to increase the
-            problem solving ability in children.
+            every day. 
           </p>
         </div>
       </div>
@@ -33,20 +32,7 @@ const Home = () => {
         <div>
           <h1>Who we are?</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam
-            quis officiis fugit sunt dolores nostrum tenetur iusto est odio
-            mollitia. Dolor placeat repellendus officia aspernatur dolorum
-            harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium
-            quia tempore. Dignissimos esse sequi numquam est ipsam nemo,
-            voluptas vel recusandae iste aspernatur qui quasi, commodi, atque
-            ipsa dolores tempore asperiores? Dolores soluta placeat molestiae
-            aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel
-            nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit
-            similique maxime praesentium sunt unde necessitatibus voluptates
-            ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat,
-            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
-            sed cumque corporis voluptate quibusdam nostrum quod saepe
+          Welcome to Optima! We are a team of highly skilled professionals dedicated to providing exceptional technical assistance and solutions for all your technology-related needs. Whether you're facing software glitches, hardware issues, network problems, or simply need guidance with your devices, we are here to help.
           </p>
         </div>
       </div>

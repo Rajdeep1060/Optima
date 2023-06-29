@@ -4,8 +4,8 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <h1>TechyStar</h1>
-        <p>@all right reserved</p>
+        <h1>Optima</h1>
+        <p>All Rights Reserved</p>
       </div>
 
       <div>
